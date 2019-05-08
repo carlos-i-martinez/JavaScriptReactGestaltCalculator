@@ -1,0 +1,13 @@
+{
+  "name": "react-gestalt-calculator",
+  "version": "1.0.0",
+  "description": "JavaScript Calculator created using Gestalt and React.",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/k5plvp9v8v",
+  "main": "index.js",
+  "dependencies": {
+    "gestalt": "0.94.0",
+    "react": "16.8.6",
+    "react-dom": "16.8.6"
+  }
+}
