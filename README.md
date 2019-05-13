@@ -4,6 +4,8 @@ A CodeSandbox.io App that functions as a regular calculator created with React J
 The template used from CodeSandbox.io was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 ## Public Webpage: [JavaScript React Gestalt Calculator](https://71192wyq41.codesandbox.io) 
+
+FreeCodeCamp Public Profile: [Carlos Martinez FreeCodeCamp](https://www.freecodecamp.org/carlitos)
  
   The project consists of using Pinterest open sourced set React UI Components that supports Pinterest design language.  You can find more information on Gestalt on their Github [Gestalt](https://github.com/pinterest/gestalt) or main page [Pinterest Gestalt](https://pinterest.github.io/gestalt/#/)
 
